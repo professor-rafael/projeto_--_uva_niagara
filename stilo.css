@@ -176,7 +176,7 @@ a.cabecalho__botao {
   text-align: center;
 }
 
-btn {
+.btn {
   margin: 100px;
   padding: 15px 40px;
   border: none;
